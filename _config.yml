@@ -139,8 +139,8 @@ comments_provider: gitalk
 gitalk:
     owner: bgst009
     repo: comment
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: f2ccc68bd3005a4b58b0
+    clientSecret: 9771908488e5c6bb1d7f11f5dc26622d6ef5dd20
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
